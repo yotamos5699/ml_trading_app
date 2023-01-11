@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-checkss
 import { z } from "zod";
 
 /**
