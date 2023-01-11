@@ -316,10 +316,7 @@ export const SideNav = () => {
                   />
                 </div>
                 <div className="ml-2 text-sm">
-                  <label
-                    for="helper-checkbox-3"
-                    className="font-medium text-gray-900 dark:text-gray-300"
-                  >
+                  <label className="font-medium text-gray-900 dark:text-gray-300">
                     <div>BOT ZEDA_132</div>
                     <p
                       id="helper-checkbox-text-3"
