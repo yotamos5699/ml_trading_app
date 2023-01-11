@@ -26,7 +26,7 @@ export const serverSchema = z.object({
 });
 
 /**
- * Specify your client-side environment variables schema here.
+ * Specify your client-side environment variables schema here 1.
  * This way you can ensure the app isn't built with invalid env vars.
  * To expose them to the client, prefix them with `NEXT_PUBLIC_`.
  */
