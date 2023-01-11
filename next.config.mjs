@@ -4,9 +4,8 @@
  * This is especially useful for Docker builds.
  */
 //const { hostname } = require("os");
-import("./src/env/server.mjs");
-//!process.env.SKIP_ENV_VALIDATION;
-//&& (await import("./src/env/server.mjs"));
+
+!process.env.SKIP_ENV_VALIDATION && (await import("./src/env/server.mjs"));
 
 /** @type {import("next").NextConfig} */
 const config = {
