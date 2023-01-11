@@ -1,4 +1,3 @@
-import { UseTRPCQueryResult } from "@trpc/react-query/shared";
 import React from "react";
 
 interface stockChartProps {
