@@ -10,6 +10,7 @@
     "next"
   ],
   "rules": {
+    "typescript": "off",
     "@typescript-eslint/consistent-type-imports": "off",
     "react/no-unescaped-entities": "off",
     "@next/next/no-page-custom-font": "off"
